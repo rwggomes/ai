@@ -1,0 +1,5 @@
+{
+    "livePreview.serverKeepAliveAfterEmbeddedPreviewClose": 0,
+    "livePreview.showServerStatusNotifications": true,
+    "livePreview.previewDebounceDelay": 1
+}
